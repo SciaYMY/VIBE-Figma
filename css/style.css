@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* LAYOUT */
+#header{padding: 1rem;}
+#main{width: 100%;}
+/* main{background: rgb(0,0,0); color: white;} */
+#sectionMobile .iframe-wrap{width: 30%;}
+#sectionTablet .iframe-wrap{width: 40%;}
+#sectionDesktop{width: 80%;}
+
+/* .iframe-wrap{width: 100px; height: 200px;} */
+
+/* HEADER */
+.header h1{font-size: 2rem; padding: 0 1rem;}
+.header .vibe-work{display: inline-flex; line-height: 3.5rem; font-size: 1.2rem;}
+.vibe-work:hover{text-decoration: underline;}
+.vibe-work img{display: block; height: 3.5rem;}
+/* MAIN */
+.main h2{padding: 1rem; text-align: center; font-size: 1.5rem; font-weight: 700; background: #000; color: #fff;}
+.main .shortcut{display: flex; align-content: center; padding: 1rem 2rem;}
+.shortcut span{font-size: 1.2rem; line-height: 4.5rem;}
+.shortcut .icon{display: block; margin: 1rem; font-size: 1.2rem; font-weight: 600;}
+.shortcut .icon:hover{background: rgba(0,0,0,.2)}
+.shortcut .icon img{height: 3rem;}
+.prototype-wrap{width: 90%; margin: 0 auto;}
+.prototype-wrap .section{display: flex;}
+.prototype-wrap .section h3{font-size: 1.5rem; text-align: center; font-weight: 600; border: 3px solid; border-bottom-style: none;}
+.desktop{margin: 0 auto;}
+.desktop h3{font-size: 1.5rem; text-align: center; font-weight: 600; border: 3px solid; border-bottom-style: none;}
