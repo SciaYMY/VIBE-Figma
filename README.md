@@ -1,6 +1,8 @@
 # VIBE Figma 작업 결과 전시 사이트
 
-배포 URL : https://sciaymy.github.io
+배포 URL : https://sciaymy.github.io/VIBE-Figma/
+
+
 본 프로젝트 : [VIBE 음악 플랫폼](https://sciaymy.github.io/VIBE-Repository/)
 
 - - -
